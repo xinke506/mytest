@@ -1,0 +1,5 @@
+com\xinke\bean\Account.class
+com\xinke\dao\AccountDao.class
+com\xinke\controller\AccountController.class
+com\xinke\service\AccountService.class
+com\xinke\service\impl\AccountServiceImpl.class
